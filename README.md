@@ -25,4 +25,4 @@ descripcion breve de lo que se hizo, por ejemplo:
 - Se mejoró el rendimiento del módulo A en un 20%.
 ```
 
-Cada mes se crea un archivo nuevo siguiendo el formato [Keep a Changelog](https://keepachangelog.com/).
+Los cambios son solo informativos, por politicas de seguridad de trabajos actuales
